@@ -8,6 +8,13 @@ For inquiries, collaborations, or support, feel free to reach out:
 
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
 
+## 📷 **Screenshot**
+| **Pages**            | **Screenshot**                                   |
+|-------------------------|-------------------------------------------------|
+| Mining                 | ![Screenshot_1](https://github.com/user-attachments/assets/cc84fde1-9608-448e-bef9-a769ae4478db) |
+| Blasted                | ![Screenshot_2](https://github.com/user-attachments/assets/4ae2a952-6434-47fd-ba91-3e1d30849a46) |
+| Win                    | ![Screenshot_3](https://github.com/user-attachments/assets/fd7969f9-b433-44b8-86c1-12ed67b32461) |
+
 ## **Features:**
 
 - 🎲 **Betting Mechanics:** Place bets and gamble your way to big wins.
