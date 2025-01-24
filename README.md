@@ -1,15 +1,32 @@
-# Casino Mine Game App
-The purpose of this project is for demonstrating ability of organizing project structure, reusable components and how to use modern languages such as react, typescript and html5 also tailwind css, scss and other relevant technologies.
-## Setting Up Environment
-* `node.js` and `npm or yarn` is primarily required to run this project on your local.
-* There's no need to have [React](https://react.dev) environment but maybe helpful.
-* Clone the repository or just download the `.zip` or `.tar.gz` file and extract it.
-### Following the Steps
-#### 1. `git clone` or download `.zip` or `.tar.gz` in git
-#### 2. `npm install` or `yarn install` in project directory.
-#### 3.  Create the `.env` File: In the project directory, create a file named .env. This file will contain environment variables required for the project. Based on the provided example, you need to set the following variables.
-    REACT_APP_API_URL=<API_URL>
-    REACT_APP_WWS_URL=<WWS_URL>
-    REACT_APP_APP_TOKEN_KEY=<APP_TOKEN_KEY>
-#### 4. `npm start` or `yarn start` Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
+# Casino Mine: A Betting and Mining Hybrid Game 🎰⛏️
+
+**Casino Mine** is an innovative blend of casino-style betting and mining mechanics. Players test their luck by wagering bets and uncovering hidden treasures while avoiding traps. With a sleek user interface and dynamic gameplay, **Casino Mine** brings the thrill of gambling and strategy to life.
+
+## 📩 Contact Me on Telegram
+
+For inquiries, collaborations, or support, feel free to reach out:
+
+[![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
+
+## **Features:**
+
+- 🎲 **Betting Mechanics:** Place bets and gamble your way to big wins.
+- ⛏️ **Mining Gameplay:** Uncover hidden treasures on a grid-based minefield.
+- 🚀 **Customizable Gameplay:** Configure bet amounts, mine density, and rewards.
+- 📈 **Leaderboard System:** Track the top players and compete globally.
+- 🔒 **Provably Fair Algorithms:** Ensure a transparent and fair gaming experience.
+- 💻 **Responsive Design:** Play seamlessly on desktop and mobile devices.
+
+## **Technologies Used:**
+
+- **Frontend:** React, Vue.js, or similar frameworks for an interactive UI.
+- **Backend:** Node.js or Python (Django/Flask) for game logic and server-side functionality.
+- **Blockchain (Optional):** Integrate crypto payments and provable fairness using Ethereum or Solana.
+- **Database:** MongoDB or PostgreSQL for player data and game state management.
+
+## **Potential Use Cases:**
+
+- Online gaming platforms.
+- Fun mini-games for websites or apps.
+- A teaching tool for probability and game theory concepts.
+
